@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webapps-rvcits
 - 👀 I’m interested in C# Coding for Mobile, Web and PC Application
-- 🌱 I’m currently learning Xamarin Forms, Web API and Blazor
+- 🌱 I’m currently learning Flutter, Dart, Xamarin Forms and Web API.
 - 💞️ I’m looking to collaborate to anyone.
 - 📫 How to reach me at e-mail: webapps.rvcits@gmail.com
 
